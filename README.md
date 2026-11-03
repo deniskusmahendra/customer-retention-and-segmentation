@@ -45,7 +45,7 @@ While many organizations focus heavily on generating new sales, understanding cu
 * **Customer segmentation measures**
 * **Parameter-driven visual switching**
 
-### VS Code - Jupyter Notebook
+### Jupyter Notebook
 
 * **Exploratory data analysis**
 * **Data validation**
